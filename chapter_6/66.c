@@ -96,4 +96,5 @@ void skipblanks(void)
 				;
 		ungetch(c);
 }
-						
+
+
